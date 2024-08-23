@@ -1,4 +1,4 @@
-Dockerized Application Deployment on Azure VM
+# Dockerized Application Deployment on Azure VM
 This project demonstrates how to deploy a Dockerized application on an Azure Virtual Machine (VM). The guide covers installing Docker on the VM, pulling application images from Docker Hub, running containers, and configuring networking to ensure the application is accessible.
 
 Key Features:
